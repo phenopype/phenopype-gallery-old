@@ -15,7 +15,7 @@ if "%*"=="-D" (
 
 sphinx-build . docs -b dirhtml 
 
-robocopy . docs README.md
+robocopy _source docs README.md
 
 if "%*"=="-o" (
 	cd docs
