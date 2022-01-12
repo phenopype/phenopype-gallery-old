@@ -13,9 +13,9 @@ if "%*"=="-D" (
 	rmdir /Q /S docs _temp
 )
 
-sphinx-build . docs -b dirhtml 
+sphinx-multibuild -c docs_source -i docs_source -i gallery  -s _temp/docs -o docs -a -b dirhtml
 
-robocopy _source docs README.md
+robocopy docs_source docs README.md
 
 if "%*"=="-o" (
 	cd docs
