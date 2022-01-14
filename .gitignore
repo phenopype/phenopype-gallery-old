@@ -1,7 +1,7 @@
 ## my patterns
 _temp
 docs
-
+.local
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
