@@ -49,6 +49,8 @@ extensions = [
     "sphinx_copybutton"
 ]
 
+suppress_warnings = ['autosectionlabel.*']
+
 autodoc_member_order = 'bysource'
 
 # The master toctree document.
