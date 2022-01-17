@@ -52,6 +52,7 @@ extensions = [
 suppress_warnings = ['autosectionlabel.*']
 
 autodoc_member_order = 'bysource'
+suppress_warnings = ['autosectionlabel.*']
 
 # The master toctree document.
 master_doc = 'index'
