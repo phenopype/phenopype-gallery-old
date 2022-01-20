@@ -125,7 +125,7 @@ If you found a bug in the package or any of these materials, please `raise an is
 		:link: project_7
 		:img-bottom: _assets/images/thumbs/project_7.jpg
 
-		Measure length of worms in batch
+		Detecting worms in 6-well plates and automatically measure their length 
 		+++
 		| California blackworm
 		| *Lumbriculus variegatus*
@@ -134,7 +134,7 @@ If you found a bug in the package or any of these materials, please `raise an is
 		:link: project_8
 		:img-bottom: _assets/images/thumbs/project_8.jpg
 
-		Quantify shape of fossil cichlid teeth
+		Quantify shape of fossil cichlid teeth in bright- and darkfield images
 		+++
 		| Lake victoria cichlids
 		| (Various species)
@@ -143,7 +143,7 @@ If you found a bug in the package or any of these materials, please `raise an is
 		:link: project_9
 		:img-bottom: _assets/images/thumbs/project_9.jpg
 
-		Measuring bodyparts of damselflies
+		Quantify shape and texture of different bodyparts of damselflies
 		+++
 		| Common bluetail
 		| *Ischnura elegans*
@@ -162,3 +162,4 @@ If you found a bug in the package or any of these materials, please `raise an is
 	project_6
 	project_7
 	project_8
+	project_9
