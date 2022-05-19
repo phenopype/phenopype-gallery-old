@@ -62,7 +62,7 @@ If you found a bug in the package or any of these materials, please `raise an is
 
 |
 
-.. grid:: 3
+.. grid:: 1 2 2 3
 	:gutter: 2
 
 	.. grid-item-card::  Project 1
