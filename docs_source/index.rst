@@ -49,16 +49,31 @@
 			</div>
 		</div>
 
-
 	<hr class="top">
 
 |
 
-This is the phenopype project gallery with real-world image analysis problems that have been solved with phenopype. Feel free to browse the projects to get some inspiration for how to extract phenotypic data from your own study system.
+Welcome to the phenopype gallery! 
 
-If you found a bug in the package or any of these materials, please `raise an issue <https://github.com/phenopype/phenopype/issues>`_ the main GitHub repo.
+Check out the projects below to get a feeling for which sort of image analysis problems can be tackled with phenopype: either run the code yourself (follow the provided instructions) or just check out the read only html version of the notebooks. If you found a bug in the package or any of these materials, please `raise an issue <https://github.com/phenopype/phenopype/issues>`_ in the main phenopype repo on GitHub.
 
-**Additional dependencies:** Install `ipyplot` to display images in the notebooks: (:code:`pip install ipyplot`). Analysis of the data collected in project 4 requires `trackpy` (:code:`pip install trackpy`).
+Instructions
+------------
+
+(Analogous to the `phenopype tutorials <https://www.phenopype.org/docs/tutorials/>`_) 
+
+1. Install phenopype (:code:`pip install phenopype`) and jupyter notebook (:code:`pip install jupyter notebook`).
+2. `Download <https://github.com/phenopype/phenopype-gallery/archive/refs/heads/main.zip>`_ and unpack the github archive containing the data and code. 
+3. Open a terminal in the unpacked folder (don't forget to activate your conda environment).
+4. Start the notebooks with :code:`jupyter notebook` and click on one of the tutorial files (your browser might give you a security warning - you can ignore it).
+5. Run the code cell by cell inside the browser window (Shift + Enter to run cell and advance).
+
+**Additional dependencies:** `ipyplot` to display images in the notebooks: (:code:`pip install ipyplot`), and `trackpy` to analyze the data collected in project 4 (:code:`pip install trackpy`).
+
+Gallery (read-only)
+-------------------
+
+Below are the read-only html versions of the code contained in the notebooks - to run them yourself, follow the above instructions. If you want to use the notebooks as a blueprint for your own project, you can also save them as a Python script from a running jupyter notebook using :code:`File > Download as > Python (.py)`.
 
 |
 
