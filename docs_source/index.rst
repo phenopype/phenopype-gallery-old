@@ -81,7 +81,7 @@ Below are the read-only html versions of the code contained in the notebooks - t
 	:gutter: 2
 
 	.. grid-item-card::  Project 1
-		:link: project_1
+		:link: project_1/
 		:img-bottom: _assets/images/thumbs/project_1.jpg
 
 		Detect isopods and measure their size, pigmentation, and shape
@@ -91,7 +91,7 @@ Below are the read-only html versions of the code contained in the notebooks - t
 
 
 	.. grid-item-card::  Project 2
-		:link: project_2
+		:link: project_2/
 		:img-bottom: _assets/images/thumbs/project_2.jpg
 
 		Set landmarks for geometric morphometrics in stickleback
@@ -100,7 +100,7 @@ Below are the read-only html versions of the code contained in the notebooks - t
 		| *Gasterosteus aculeatus*
 
 	.. grid-item-card::  Project 3
-		:link: project_3
+		:link: project_3/
 		:img-bottom: _assets/images/thumbs/project_3.jpg
 
 		Quantify armour plate shape and area in stickleback
@@ -109,7 +109,7 @@ Below are the read-only html versions of the code contained in the notebooks - t
 		| *Gasterosteus aculeatus*
 
 	.. grid-item-card::  Project 4
-		:link: project_4
+		:link: project_4/
 		:img-bottom: _assets/images/thumbs/project_4.jpg
 
 		High resolution predator prey interactions between isopod and stickleback
@@ -118,7 +118,7 @@ Below are the read-only html versions of the code contained in the notebooks - t
 		| *A. aquaticus*
 		
 	.. grid-item-card::  Project 5
-		:link: project_5
+		:link: project_5/
 		:img-bottom: _assets/images/thumbs/project_5.jpg
 
 		Measure over 100 shape and texture traits in phytoplankton
@@ -128,7 +128,7 @@ Below are the read-only html versions of the code contained in the notebooks - t
 
 
 	.. grid-item-card::  Project 6
-		:link: project_6
+		:link: project_6/
 		:img-bottom: _assets/images/thumbs/project_6.jpg
 
 		Count snails and measure their colour and shape
@@ -137,7 +137,7 @@ Below are the read-only html versions of the code contained in the notebooks - t
 		| *Potamopyrgus antipodarum*
 
 	.. grid-item-card::  Project 7
-		:link: project_7
+		:link: project_7/
 		:img-bottom: _assets/images/thumbs/project_7.jpg
 
 		Detecting worms in 6-well plates and automatically measure their length 
@@ -146,7 +146,7 @@ Below are the read-only html versions of the code contained in the notebooks - t
 		| *Lumbriculus variegatus*
 
 	.. grid-item-card::  Project 8
-		:link: project_8
+		:link: project_8/
 		:img-bottom: _assets/images/thumbs/project_8.jpg
 
 		Quantify shape of fossil cichlid teeth in bright- and darkfield images
@@ -155,7 +155,7 @@ Below are the read-only html versions of the code contained in the notebooks - t
 		| (Various species)
 
 	.. grid-item-card::  Project 9
-		:link: project_9
+		:link: project_9/
 		:img-bottom: _assets/images/thumbs/project_9.jpg
 
 		Quantify shape and texture of different bodyparts of damselflies
